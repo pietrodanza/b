@@ -1,5 +1,4 @@
 include "console.iol"
-include "dependenciesB.iol"
 
 interface cInterface {
 RequestResponse:
